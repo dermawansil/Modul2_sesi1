@@ -17,7 +17,7 @@ const Playlist = (props) =>{
                     />
                     <p>Bohemian Rhapsody (The Original Soundtrack)</p>
                     <p>Queen</p>
-                    <p>Bohemian Rhapsody</p>
+                    <p>album</p>
                     <button>Play</button>
 
                 </div>

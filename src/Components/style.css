@@ -1,0 +1,22 @@
+
+
+button {
+    font-family: sans-serif;
+    font-size: 15px;
+    background: #22a4cf;
+    color: white;
+    border-radius: 5px;
+  }
+
+  body {
+    font-family: arial;
+    background: aqua;
+  }
+  
+  .playlist-list {
+    border-style: 3px solid red;
+    border-radius: 5px;
+    text-align: center;
+    margin: 100px;
+    padding-top: 10px;
+  }
